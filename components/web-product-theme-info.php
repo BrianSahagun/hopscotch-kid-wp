@@ -1,0 +1,1 @@
+<span class="label subj_label">HopScotch Kid / <span class="label parent-theme_label"><?php $url = 'http://designdrive.co/hopscotch/'; echo sprintf( __( '<a class="axn parent-theme-name_axn" href="%s">HopScotch</a>', 'hopscotch'), esc_url( $url ) ); ?></span> Theme</span>
